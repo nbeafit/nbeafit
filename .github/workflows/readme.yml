@@ -1,0 +1,42 @@
+name: README Build
+on:
+  # Changes to this file
+  push:
+    paths:
+    - '.github/workflows/readme.yml'
+  # Runs on request
+  workflow_dispatch:
+  # Runs everyday at 05:30 UTC
+  schedule:
+    - cron: "30 5 * * *"
+    
+# Sets permissions of the GITHUB_TOKEN to allow repository push
+permissions:
+  contents: read
+  
+jobs:
+  build:
+    name: Update README
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+        
+        - name: Checkout
+          uses: actions/checkout@v7
+
+        - name: Generate README file
+          uses: nclsbayona/nclsbayona-readme-action@master
+          with:
+            github-username: ${{ github.repository_owner }}
+            nasa-api-key: ${{ secrets.NASA_KEY }}
+            webpage-url: 'https://nclsbayona.github.io'
+            contributions-url: 'https://raw.githubusercontent.com/nbeafit/nbeafit/output/github-contribution-grid-snake-sissa.svg'
+            feed-url: "https://nclsbayona.github.io/index.xml"
+            quote-src: 'image:https://github.com/nclsbayona/nclsbayona.github.io/blob/main/artifacts/images/quote_of_the_day.png?raw=true'
+            welcome-msg: ''
+        
+        - name: Commit changes
+          uses: stefanzweifel/git-auto-commit-action@v7
+          with:
+            commit_message: "docs: :memo: Update documentation"
