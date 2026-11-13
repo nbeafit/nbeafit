@@ -25,14 +25,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Adios Amigos Cocktail</h4>
+<h4 align="center">Gin Squirt</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/8nk2mp1504819893.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/xrbhz61504883702.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Cocktail</h5>
+<h5 align="center">Alcoholic - Ordinary Drink</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -47,32 +47,24 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Rum</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 shot </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Dry Vermouth</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 shot </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cognac</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 shot </td>
-        </tr>
-        <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Gin</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 shot </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Fresh Lime Juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/4 shot</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Grenadine</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tsp </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sugar Syrup</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/4 shot</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Powdered sugar</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tblsp </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Water</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 shot </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Pineapple</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3 chunks</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Strawberries</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 </td>
         </tr>
     </tbody>
 </table>
@@ -83,7 +75,7 @@
 
 
 <p align="center">
-Shake together all the ingredients and strain into a cold glass.
+Stir gin, grenadine, and powdered sugar with ice and strain into a highball glass over ice cubes. Fill with carbonated water and stir. Decorate with the pineapple chunks and the strawberries and serve.
 </p>
 
 ----
@@ -128,65 +120,65 @@ Shake together all the ingredients and strain into a cold glass.
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/22.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/23.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/1.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/19.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/8.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/22.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/34.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/9.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/23.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/17.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/13.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/22.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/22.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/12.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/penguin/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/axolotl/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/11.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/rabbit/16.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/lion/7.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/bear/3.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/frog/1.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/13.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/5.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/capybara/1.png" width="180"/>
@@ -194,24 +186,24 @@ Shake together all the ingredients and strain into a cold glass.
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/hedgehog/18.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/turtle/13.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/narwhal/7.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/squirrel/11.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/fish/10.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/horse/12.png" width="180"/>
 </td>
 </tr>
 </table>
