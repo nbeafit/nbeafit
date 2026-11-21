@@ -25,14 +25,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Raspberry Julep</h4>
+<h4 align="center">Swedish Coffee</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/hyztmx1598719265.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/ywtrvt1441246783.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Cocktail</h5>
+<h5 align="center">Alcoholic - Coffee / Tea</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -47,32 +47,16 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Bourbon</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Coffee</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 cup</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Raspberry syrup</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Aquavit</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 cl </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Mint</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">8</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sugar</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">By taste </td>
         </tr>
     </tbody>
 </table>
@@ -83,7 +67,7 @@
 
 
 <p align="center">
-Softly muddle the mint leaves and raspberry syrup in the bottom of the cup. Add crushed ice and Bourbon to the cup and then stir. Top with more ice, garnish with a mint sprig.
+Pour the coffee in an ordinary coffee cup. Add the aquavit. Add sugar by taste. Stir and have a nice evening (morning)
 </p>
 
 ----
@@ -128,32 +112,32 @@ Softly muddle the mint leaves and raspberry syrup in the bottom of the cup. Add 
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/24.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/16.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/4.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/5.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/8.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/24.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/18.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/21.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/24.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/panda/13.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/redpanda/8.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/koala/22.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/whale/21.png" width="180"/>
@@ -161,57 +145,57 @@ Softly muddle the mint leaves and raspberry syrup in the bottom of the cup. Add 
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dolphin/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/7.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/kangaroo/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/18.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/rabbit/24.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/lion/20.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bear/19.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/frog/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/4.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/penguin/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/18.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/axolotl/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/16.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/capybara/22.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/hedgehog/10.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/turtle/1.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/narwhal/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/0.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/penguin/11.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/axolotl/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/capybara/5.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/11.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/9.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/11.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/11.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/14.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/1.png" width="180"/>
 </td>
 </tr>
 </table>
