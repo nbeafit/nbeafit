@@ -25,10 +25,10 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Lord And Lady</h4>
+<h4 align="center">Ice Pick</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/quwrys1468923219.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/ypsrqp1469091726.jpg" alt="Drink image" />
 
 </p>
 
@@ -47,12 +47,16 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Dark rum</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vodka</td>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Tia maria</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Iced tea</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">6 oz </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"> to taste<br></td>
         </tr>
     </tbody>
 </table>
@@ -63,7 +67,7 @@
 
 
 <p align="center">
-Pour the rum and Tia Maria into an old-fashioned glass almost filled with ice cubes. Stir well.
+Put Vodka in glass fill with iced tea. Stir in lemon to taste.
 </p>
 
 ----
@@ -108,65 +112,65 @@ Pour the rum and Tia Maria into an old-fashioned glass almost filled with ice cu
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/15.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/22.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/24.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/16.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/30.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/24.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/13.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/5.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/8.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/11.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/7.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/20.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/9.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/2.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/16.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/penguin/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/13.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/axolotl/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/14.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/rabbit/24.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/lion/3.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/bear/0.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/frog/10.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/20.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/11.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/capybara/9.png" width="180"/>
@@ -174,24 +178,24 @@ Pour the rum and Tia Maria into an old-fashioned glass almost filled with ice cu
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/hedgehog/10.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/turtle/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/narwhal/0.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/squirrel/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/fish/6.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/horse/12.png" width="180"/>
 </td>
 </tr>
 </table>
